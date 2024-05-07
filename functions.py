@@ -1,6 +1,6 @@
 """Functions to manipulate files(read & write)"""
 
-FILEPATH = "/Users/romezen/Library/CloudStorage/OneDrive-Personal/Pthon Mega Course/TodosApp/todo.txt"
+FILEPATH = "todo.txt"
 
 
 def get_todos(filepath=FILEPATH):
